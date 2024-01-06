@@ -1,0 +1,13 @@
+body{background-color: antiquewhite;
+   
+    background-color: black;
+    color: white;
+    height: 95vh;
+    background-image: url(1.jpg);
+    object-position: 0;
+    
+   }body a{
+    text-decoration: none;}
+body a:hover{
+    text-decoration: underline;
+}

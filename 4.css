@@ -1,0 +1,17 @@
+body{background-color: antiquewhite;
+ 
+    background-color: black;
+    color: white;
+    height: 95vh;
+    background-image: url(2.jpg);
+    object-position: 0;
+}
+body a{
+    text-decoration: none;}
+body a:hover{
+    text-decoration: underline;
+}
+footer{
+font-size: 100px;
+text-align: center;
+}
